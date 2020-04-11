@@ -14,6 +14,7 @@ Feel free to give constructive criticism and/or edit/add to the design!
 Main framework for the game credits to "techbytes.io" Link: https://www.youtube.com/watch?v=yJz2at4Hco4
 Changes I have made: Bug fixes. Lots of bug fixes. Also added a small disclaimer and rule at the beginning of each game. Working on a restart option so that the player can restart in the middle of a game if they want, instead of throwing the game to start another one. 
 
+
 Bugs Fixed:
 
 The player can continue to play even though they have lost (Now, they cannot)
