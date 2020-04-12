@@ -19,11 +19,12 @@ Bugs Fixed:
 
 The player can continue to play even though they have lost (Now, they cannot)
 
-The bot will only hit if the player hits, and will only stay if the player stays (Now, it should hit if it has less than 16, and stay if it has more than 16)
+The bot will only hit if the player hits, and will only stay if the player stays (Now, it should hit if it has less than 17 and stay if it has more than 17)
 
 If the bot busts, it will win, as long as the player has less than the bot even if the player did not bust (Now, if the bot busts, it will automatically lose, and if the player busts, the player will also lose.)
 
+If both the player and the bot bust, it says that the player busts, and the bot has won hen under that it says that the bot busts and the player has won; and at the bottom it says that both have busted and it is a tie. (Fixed)
 
 Bugs that need to be fixed:
 
-If both the player and the bot bust, it says that the player busts, and the bot has one; then under that it says that the bot busts and the player has won; and at the bottom it says that both have busted and it is a tie. 
+The bot will now only be able to draw up to one card after the player stays
